@@ -4,3 +4,5 @@ __pycache__/
 /docs/_build/
 _autogen/
 *_autosummary/
+testdata/
+uv.lock
