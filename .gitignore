@@ -5,4 +5,3 @@ __pycache__/
 _autogen/
 *_autosummary/
 testdata/
-uv.lock
